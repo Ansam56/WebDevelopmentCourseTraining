@@ -1,2 +1,2 @@
-# -WebDevelopmentCourseTraining-
-Preperation Course in Web Development - GSG
+# WebDevelopmentCourseTraining
+## Preperation Course in Web Development-GSG
